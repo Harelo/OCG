@@ -1,0 +1,9 @@
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\bin\Debug\OneCommandGenerator.exe.config
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\bin\Debug\OneCommandGenerator.exe
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\bin\Debug\OneCommandGenerator.pdb
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.Properties.Resources.resources
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.csproj.GenerateResource.Cache
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.exe
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.pdb
+C:\Users\Harel\Desktop\C# learning\C# tutorials\Windows Forms Applications\OneCommandGenerator\OneCommandGenerator\obj\Debug\OneCommandGenerator.OneCommandGenerator.resources
