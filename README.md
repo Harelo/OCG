@@ -1,4 +1,4 @@
-<h1><b>OCG - One Command Generatory</h1></b>
+<h1><b>OCG - One Command Generator</h1></b>
 
 A generator that creates a "One Command" format from multiple commands (Minecraft).<br/>
 Open it on your machine by launching OneCommandGenerator.exe from the bin/Debug directory.<br/>
